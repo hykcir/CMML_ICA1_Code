@@ -1,1 +1,9 @@
 # CMML_ICA1_Code
+
+All R codes used for model building (including refinements for original codes) and data analysis and as follow:
+
+1. Models_comparison.R: Compare the performace of the three models under both fixed and variable platform condition
+
+2. Combined_ratio_tunning.R: Compare the performance of the combined model under different weight ratio between place-cell and distance-cell (and under fixed and variable platform condition)
+
+3. Parameters_tunning.R: Compare the performance of the three models under different key parameters (e.g. alpha, gamma, beta) (and under fixed and variable platform condition)
