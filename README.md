@@ -8,4 +8,4 @@ All R codes used for model building (including refinements for original codes) a
 
 3. Parameters_tunning.R: Compare the performance of the three models under different key parameters (e.g. alpha, gamma, beta) (and under fixed and variable platform condition)
 
-P.S. Fixed parameters used in Combined_ratio_tunning.R and Parameters_tunning.R are inherited from the default settings in Models_comparison.R
+P.S. Fixed parameters and run_trials functions used in Combined_ratio_tunning.R and Parameters_tunning.R are inherited from the default settings in Models_comparison.R
